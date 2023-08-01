@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JPAtekur
 - 👀 I’m interested in Java, Python, React
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me: Phone -> +8801757309915, Email -> atekur.rm@gmail.com
 
 <!---
